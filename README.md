@@ -22,7 +22,6 @@ After the above steps we can move onto the real coding below.
 
 ## Step 1 - Folder structure and extra pages.
 
-<<<<<<< HEAD
 Lets begin with what your menu should look like and what that means, see below image.
 
 ![alt image](https://github.com/LaureaNeonLab/tutorial-1/blob/master/folder.png)
