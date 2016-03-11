@@ -12,15 +12,22 @@ This means we now have a local copy of the code on our computer. Yay!
 Always check it with 'git status' just incase we have any issues.
 
 Next we need to open it in our lightweight editor, in this case we are using Visual Code 
+<<<<<<< HEAD
 - [x] Download here: https://code.visualstudio.com/ 
 - [x] In Visual studio open the **tutorial-1** folder.
 - [x] Review the comments in the index.html js/app.js
+=======
+> Download here: https://code.visualstudio.com/ 
+> In Visual studio open the **tutorial-1** folder.
+> Review the comments in the index.html js/app.js
+>>>>>>> dbad64cf55accec6c985e4660975522b1dbdb060
 
 After the above steps we can move onto the real coding below.
 > http://learn.ionicframework.com/videos/ FInd great videos here for starting out with Ionic!
 
 ## Step 1 - Folder structure and extra pages.
 
+<<<<<<< HEAD
 Lets begin with what your menu should look like and what that means, see below image.
 
 ![alt image](https://github.com/LaureaNeonLab/tutorial-1/blob/master/folder.png)
@@ -99,3 +106,6 @@ before the *.state* section seen above add this code block:
 > This gives pOne a state we can navigate too
 
 Repeat this step in the app.js until you have a .state provider for all the files in pages folder.
+=======
+Lets 
+>>>>>>> dbad64cf55accec6c985e4660975522b1dbdb060
